@@ -1,0 +1,14 @@
+function theta = newtonsMethod(X, y, initialTheta)
+%NEWTONSMETHOD This function uses Newton's method to maximize the logistics
+%regression maximum-likelihood function
+
+% Some useful variables
+m = size(X, 1);
+n = size(X, 2);
+
+h = sigmoid(X * theta);
+J = -y' * log(h) - (1 - y)' * log(1 - h);
+grad_J = X * ()
+
+end
+

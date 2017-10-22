@@ -1,0 +1,147 @@
+Build a Quiz Game Skill: https://developer.amazon.com/blogs/post/fa962f53-4=
+d7e-47a2-933b-302b833d716c/technical-tutorial-build-an-alexa-quiz-game-skil=
+l-using-our-new-template
+Bring the fun of trivia to Alexa. Build a quiz game skill in no time using =
+the new quiz skill template. You provide the data and the number of propert=
+ies in that data, and Alexa will dynamically build a quiz game for you. Che=
+ck out our tutorial https://developer.amazon.com/public/solutions/alexa/ale=
+xa-skills-kit/content/fact-skill-1 and register for our upcoming webinar ht=
+tps://attendee.gotowebinar.com/register/2170658435959581697?source=3DNewsle=
+tter.
+https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promoti=
+on?mkt_tok=3DeyJpIjoiTWpJME5tTmlaRE0yWWpRMyIsInQiOiJjeTBTbGgwR3A5UFBnZDdcLz=
+RHNnhFc29kekFGOHlNZWwzQnl3ZFQrQ0U4eGN2Q1VZSit6SzlQbURrZmhJXC9GTXhramJXUmJja=
+kpNdENDVXhyM3hTRVNJbW1EWGxmSmhBT0lrSWRjTWxwaitcL09jRGlXVHVoTm1WUjIrR3NyTnlw=
+RCJ9
+Last Call for Alexa Dev Shirts =20
+
+There's only one week left in our Alexa shirt giveaway. Publish your Alexa =
+skill by March 31 to get your limited-edition shirt. Get started quickly us=
+ing our fact template https://developer.amazon.com/blogs/post/Tx3DVGG0K0TPU=
+GQ/New-Alexa-Skills-Kit-Template:-Step-by-Step-Guide-to-Build-a-Fact-Skill.=
+ =20
+
+Learn more https://developer.amazon.com/alexa-skills-kit/alexa-developer-sk=
+ill-promotion?mkt_tok=3DeyJpIjoiWkRrNU1EYzVNelU0WXpJNCIsInQiOiI3M1ZtQUFiY3M=
+yRSt6Y0NTRHdhWVQ1Z0prTENiM0NTXC9qTmxOT3h2OUt0MXZadFdScDhmQk1ybDA5UDJWeFl3M2=
+9QRUpRVFwvUlFHT0dNYUpDM1dJblRIRmRMVXFmS2xmTTJGbFBJXC83Q3VBNTAxXC9IbkdUSlJpU=
+XNZVnFZQXB3ZVkifQ%3D%3D
+https://developer.amazon.com/alexa-skills-kit/alexa-aws-credits
+Apply for AWS Promotional Credit
+
+If you have a published Alexa skill, apply to receive a $100 AWS promotiona=
+l credit. You can also earn additional monthly credits if your skill incurs=
+ AWS usage charges.=20
+
+Learn more https://developer.amazon.com/alexa-skills-kit/alexa-aws-credits
+AWS Lambda Deprecating Node.js v0.10 runtime=20
+AWS Lambda is deprecating https://forums.aws.amazon.com/ann.jspa?annID=3D43=
+45 the Node.js v0.10 runtime. All Node.js v0.10 functions in your account (=
+active or otherwise) must be migrated to Node.js v4.3 or Node.js v6.10 http=
+s://forums.aws.amazon.com/ann.jspa?annID=3D4501 by April 30, 2017. Until th=
+en, your Node.js v0.10 functions will continue to work as is and support al=
+l features including updates to code and configuration. To learn more about=
+ our Node runtime policy and switching to newer runtimes, visit our documen=
+tation http://docs.aws.amazon.com/lambda/latest/dg/nodejs-prog-model-using-=
+old-runtime.html#nodejs-prog-model-runtime-support-policy.
+
+Ford Gives Customers Greater Control with New Alexa Skill
+Ford announced a two-phased approach to integrating Amazon Alexa into its 2=
+017 line of vehicles at CES. Now you can remote start your car, check your =
+vehicle=E2=80=99s range, and unlock your car with the MyFord Mobile skill f=
+or Alexa. Learn=20
+more https://developer.amazon.com/blogs/post/2671eccb-f2b1-4354-bfc6-bdeb19=
+e3bad5/ford-gives-customers-greater-control-of-their-vehicles-with-myford-m=
+obile-skill
+
+Amazon Alexa Now Available on the Huawei Mate 9
+Huawei released an over-the-air (OTA) update, bringing the power of Amazon =
+Alexa to all Mate 9 smartphones in the US through an integrated mobile app.=
+ The hands-free Alexa experience adds intelligent voice control to the Mate=
+ 9. Learn more https://developer.amazon.com/blogs/post/9a097ea3-f854-47e2-9=
+5ce-434abb22fdde/huawei-updates-mate-9-with-amazon-alexa-integrated-mobile-=
+app
+Developer Tip: Speed up development by learning how to deploy your Alexa sk=
+ill to AWS Lambda using the command line. Learn more https://developer.amaz=
+on.com/blogs/post/Tx1UE9W1NQ0GYII/publishing-your-skill-code-to-lambda-via-=
+the-command-line-interface
+https://developer.amazon.com/blogs/post/d882d4b3-19a6-4973-bfdf-6c25ab57f0e=
+5/amazon-and-makers-academy-announce-new-alexa-training-for-ruby-developers=
+?mkt_tok=3DeyJpIjoiWVdZeU9EVTFaRFJtT1dSaCIsInQiOiIwc3hOZGFyTW5BRG1IQ2N0R2VR=
+ZWcyUkUrc3FRMDlNazBhd1h5UzRFNU5VbWVmcXhTMTRHcnZSRjhERUF5QkJqdDYwMTE4N25DZzZ=
+cL0liN3d2TjF1RkE9PSJ9
+New Alexa Training for Ruby Developers We are collaborating with Makers=20
+Academy on a new Alexa Skills Kit training course for Ruby developers. In t=
+he next few weeks, we=E2=80=99ll deliver a free course on building custom s=
+kills for Alexa with Ruby. Learn more https://developer.amazon.com/blogs/po=
+st/d882d4b3-19a6-4973-bfdf-6c25ab57f0e5/amazon-and-makers-academy-announce-=
+new-alexa-training-for-ruby-developers and read the first module https://de=
+veloper.amazon.com/blogs/post/105df30e-9890-4a8c-9caf-5de1c8ff86cb/makers-a=
+cademy-s-alexa-series-how-to-build-a-hello-world-skill-with-ruby
+https://developer.amazon.com/blogs/post/61d4a6ff-ed80-475a-b95e-d927989bc1d=
+e/tips-for-successful-alexa-skill-certification?mkt_tok=3DeyJpIjoiWVdZeU9EV=
+TFaRFJtT1dSaCIsInQiOiIwc3hOZGFyTW5BRG1IQ2N0R2VRZWcyUkUrc3FRMDlNazBhd1h5UzRF=
+NU5VbWVmcXhTMTRHcnZSRjhERUF5QkJqdDYwMTE4N25DZzZcL0liN3d2TjF1RkE9PSJ9
+Tips for a Successful Alexa Skill Certification Every Alexa skill submitted=
+ to=20
+Amazon undergoes a certification process prior to being published in our pu=
+blic catalog. Follow these tips to ensure a successful certification. Learn=
+ more https://developer.amazon.com/blogs/post/61d4a6ff-ed80-475a-b95e-d9279=
+89bc1de/tips-for-successful-alexa-skill-certification
+https://read.acloud.guru/alexa/home
+Tips and Ideas from Alexa Champions=20
+
+Check out the latest posts by Alexa champions on A Cloud Guru. April Hamilt=
+on outlines tips on choosing the right skill idea. Darian Johnson shares in=
+spirational examples of outside-the-box skills. And Terren Peterson explain=
+s the importance of using feedback loops on custom skills. =20
+
+Learn more https://read.acloud.guru/alexa/home
+Voice Design Tips from Opearlo
+
+As Alexa skills developers know, designing for the voice is very different =
+from designing for the screen. Check out these 10 helpful tips on voice des=
+ign from Jess Williams, CEO of Opearlo. (Tip #10: =E2=80=9CAUDIO, AUDIO, AU=
+DIO=E2=80=9D)
+
+Learn more http://www.opearlo.com/blog/10-best-practices-when-designing-for=
+-voice
+http://www.opearlo.com/blog/10-best-practices-when-designing-for-voice
+Developers at Schell Games created the Baker Street Experience http://sglab=
+s.schellgames.com/post/150366893748/creating-an-innovative-game-experience-=
+for-the, an Alexa skill set in the world of Sherlock Holmes.
+Developer Mike McGurrin brought to life a three-axis talking skull using Al=
+exa Voice Services. The result: the Yorick Project https://www.hackster.io/=
+mike-mcgurrin/the-yorick-project-f9bac7.
+- Technical Tutorial: Build an Alexa Quiz Game Skill Using Our New Template=
+ https://developer.amazon.com/blogs/post/fa962f53-4d7e-47a2-933b-302b833d71=
+6c/technical-tutorial-build-an-alexa-quiz-game-skill-using-our-new-template
+- Tips for a Successful Alexa Skill Certification https://developer.amazon.=
+com/blogs/post/61d4a6ff-ed80-475a-b95e-d927989bc1de/tips-for-successful-ale=
+xa-skill-certification
+- Amazon and Makers Academy Announce New Alexa Training for Ruby Developers=
+ https://developer.amazon.com/blogs/post/d882d4b3-19a6-4973-bfdf-6c25ab57f0=
+e5/amazon-and-makers-academy-announce-new-alexa-training-for-ruby-developer=
+s
+- Amazon Makes it Free for Developers to Build and Host Most Alexa Skills U=
+sing AWS https://developer.amazon.com/blogs/post/6d6b437e-3bc5-4126-8f57-e5=
+eb49865c13/amazon-makes-it-free-for-developers-to-build-and-host-most-alexa=
+-skills-using-aws
+- Ford Gives Customers Greater Control of Their Vehicles with MyFord Mobile=
+ Skill https://developer.amazon.com/blogs/post/2671eccb-f2b1-4354-bfc6-bdeb=
+19e3bad5/ford-gives-customers-greater-control-of-their-vehicles-with-myford=
+-mobile-skill
+Wired https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/2017/03/si=
+ris-not-even-best-iphone-assistant-anymore/amp/ highlights the addition of =
+Alexa to iOS devices.
+Fortune http://fortune.com/2017/03/15/amazon-alexa-developers-credits/ repo=
+rts on our new AWS promotional credits.
+GeekWire http://www.geekwire.com/2017/amazon-teaches-alexa-hopes-virtual-as=
+sistant-will-someday/ shares how we use data to make Alexa smarter.
+CNET https://www.cnet.com/how-to/amazon-echo-things-alexa-can-do-that-googl=
+e-home-cant/ outlines seven of Alexa's strengths.
+
+
+This email was sent to gyevnarb@gmail.com. If you no longer wish to receive=
+ these emails you may unsubscribe here: http://dev.amazonappservices.com/ap=
+pstoresubscription.
